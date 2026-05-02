@@ -1,0 +1,9 @@
+# put your bot token here
+TOKEN=your_bot_token_here
+
+# put your bot client id here
+CLIENT_ID=your_client_id_here
+
+# bot owner user ids put your user id or others to add them as bot owners they will have full access to the bot commands in any server
+# example: BOT_OWNER_IDS=123456789012345678,987654321098765432
+BOT_OWNER_IDS=your_user_id_here
